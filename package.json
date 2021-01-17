@@ -11,7 +11,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://https://github.com/Vitalii8080/goit-js-hw-10-food-service"
+    "url":  "git+https://github.com/luxplanjay/webpack-starter-kit.git"
   },
   "keywords": [],
   "author": "Alexander Repeta <alexander.repeta@gmail.com>",
@@ -42,13 +42,13 @@
     "sass-loader": "^10.0.2",
     "style-loader": "^1.2.1",
     "url-loader": "^4.1.0",
-    "webpack": "^4.44.1",
+    "webpack": "^4.44.2",
+    "webpack-cli": "^3.3.12",
     "webpackbar": "^4.0.0"
   },
   "dependencies": {
     "core-js": "^3.6.5",
     "handlebars": "^4.7.6",
-    "webpack-cli": "^3.3.12",
     "webpack-dev-server": "^3.11.0",
     "webpack-merge": "^5.1.4"
   }
